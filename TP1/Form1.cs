@@ -25,6 +25,7 @@ namespace TP1
 
         private void button1_Click(object sender, EventArgs e)
         {
+            ///Hola GitHub
             Ejercicio1 ejercicio1 = new Ejercicio1();
             ejercicio1.Show();
         }
